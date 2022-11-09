@@ -1,0 +1,15 @@
+{
+    "name": "sheets-api-snippets",
+    "version": "1.0.0",
+    "description": "Code snippets for the Sheets API",
+    "private": true,
+    "scripts": {
+        "start": "node index.js"
+    },
+    "license": "Apache-2.0",
+    "dependencies": {
+        "expect": "^29.2.1",
+        "mocha": "^10.0.0",
+        "puppeteer": "^19.1.2"
+    }
+}
